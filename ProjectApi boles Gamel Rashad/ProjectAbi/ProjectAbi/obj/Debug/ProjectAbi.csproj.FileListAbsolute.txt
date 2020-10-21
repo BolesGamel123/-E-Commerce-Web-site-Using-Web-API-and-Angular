@@ -1,0 +1,290 @@
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\bin\ProjectAbi.dll.config
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\bin\ProjectAbi.dll
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\bin\ProjectAbi.pdb
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\bin\roslyn\csc.exe
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\bin\roslyn\csc.exe.config
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\bin\roslyn\csc.rsp
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\bin\roslyn\csi.exe
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\bin\roslyn\csi.exe.config
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\bin\roslyn\csi.rsp
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\bin\roslyn\Microsoft.Managed.Core.targets
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\bin\roslyn\System.AppContext.dll
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\bin\roslyn\System.Collections.Immutable.dll
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\bin\roslyn\System.Console.dll
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\bin\roslyn\System.Globalization.Calendars.dll
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\bin\roslyn\System.IO.Compression.dll
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\bin\roslyn\System.IO.FileSystem.dll
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\bin\roslyn\System.Net.Http.dll
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\bin\roslyn\System.Net.Sockets.dll
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\bin\roslyn\System.Reflection.Metadata.dll
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\bin\roslyn\System.ValueTuple.dll
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\bin\roslyn\System.Xml.XmlDocument.dll
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\bin\roslyn\System.Xml.XPath.dll
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\bin\roslyn\vbc.exe
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\bin\roslyn\vbc.exe.config
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\bin\roslyn\vbc.rsp
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\bin\roslyn\VBCSCompiler.exe
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\bin\roslyn\VBCSCompiler.exe.config
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\bin\EntityFramework.dll
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\bin\EntityFramework.SqlServer.dll
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\bin\Microsoft.AspNet.Identity.Core.dll
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\bin\Microsoft.Owin.Cors.dll
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\bin\Microsoft.Owin.dll
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\bin\Microsoft.Owin.Security.Cookies.dll
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\bin\Microsoft.Owin.Security.dll
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\bin\Microsoft.Owin.Security.OAuth.dll
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\bin\Newtonsoft.Json.dll
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\bin\Owin.dll
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\bin\System.Net.Http.Formatting.dll
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\bin\System.Web.Cors.dll
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\bin\System.Web.Http.dll
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\bin\System.Web.Http.Owin.dll
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\bin\EntityFramework.xml
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\bin\EntityFramework.SqlServer.xml
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\bin\Microsoft.AspNet.Identity.Core.xml
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\bin\Microsoft.Owin.xml
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\bin\Microsoft.Owin.Cors.xml
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\bin\Microsoft.Owin.Security.xml
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\bin\Microsoft.Owin.Security.Cookies.xml
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\bin\Microsoft.Owin.Security.OAuth.xml
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\bin\Newtonsoft.Json.xml
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\bin\System.Net.Http.Formatting.xml
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\bin\System.Web.Http.xml
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\bin\System.Web.Http.Owin.xml
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\obj\Debug\ProjectAbi.csprojAssemblyReference.cache
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\obj\Debug\ProjectAbi.Migrations.step1.resources
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\obj\Debug\ProjectAbi.Migrations.step2.resources
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\obj\Debug\ProjectAbi.Migrations.step21.resources
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\obj\Debug\ProjectAbi.Migrations.step4.resources
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\obj\Debug\ProjectAbi.csproj.GenerateResource.cache
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\obj\Debug\ProjectAbi.csproj.CoreCompileInputs.cache
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\obj\Debug\ProjectAbi.csproj.CopyComplete
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\obj\Debug\ProjectAbi.dll
+E:\iti\webApi Lab\ProjectAbi\ProjectAbi\obj\Debug\ProjectAbi.pdb
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\ProjectAbi.dll.config
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\ProjectAbi.dll
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\ProjectAbi.pdb
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\csc.exe
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\csc.exe.config
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\csc.rsp
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\csi.exe
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\csi.exe.config
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\csi.rsp
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\Microsoft.Managed.Core.targets
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\System.AppContext.dll
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\System.Collections.Immutable.dll
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\System.Console.dll
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\System.Globalization.Calendars.dll
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\System.IO.Compression.dll
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\System.IO.FileSystem.dll
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\System.Net.Http.dll
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\System.Net.Sockets.dll
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\System.Reflection.Metadata.dll
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\System.ValueTuple.dll
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\System.Xml.XmlDocument.dll
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\System.Xml.XPath.dll
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\vbc.exe
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\vbc.exe.config
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\vbc.rsp
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\VBCSCompiler.exe
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\VBCSCompiler.exe.config
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\EntityFramework.dll
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\EntityFramework.SqlServer.dll
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\Microsoft.AspNet.Identity.Core.dll
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\Microsoft.Owin.Cors.dll
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\Microsoft.Owin.dll
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\Microsoft.Owin.Security.Cookies.dll
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\Microsoft.Owin.Security.dll
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\Microsoft.Owin.Security.OAuth.dll
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\Newtonsoft.Json.dll
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\Owin.dll
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\System.Net.Http.Formatting.dll
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\System.Web.Cors.dll
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\System.Web.Http.dll
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\System.Web.Http.Owin.dll
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\EntityFramework.xml
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\EntityFramework.SqlServer.xml
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\Microsoft.AspNet.Identity.Core.xml
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\Microsoft.Owin.xml
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\Microsoft.Owin.Cors.xml
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\Microsoft.Owin.Security.xml
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\Microsoft.Owin.Security.Cookies.xml
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\Microsoft.Owin.Security.OAuth.xml
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\Newtonsoft.Json.xml
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\System.Net.Http.Formatting.xml
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\System.Web.Http.xml
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\System.Web.Http.Owin.xml
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\obj\Debug\ProjectAbi.csprojAssemblyReference.cache
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\obj\Debug\ProjectAbi.Migrations.step1.resources
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\obj\Debug\ProjectAbi.Migrations.step2.resources
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\obj\Debug\ProjectAbi.Migrations.step21.resources
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\obj\Debug\ProjectAbi.Migrations.step4.resources
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\obj\Debug\ProjectAbi.csproj.GenerateResource.cache
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\obj\Debug\ProjectAbi.csproj.CoreCompileInputs.cache
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\obj\Debug\ProjectAbi.csproj.CopyComplete
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\obj\Debug\ProjectAbi.dll
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\obj\Debug\ProjectAbi.pdb
+E:\iti\webApi Lab\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\obj\Debug\ProjectAbi.Migrations.step22.resources
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\ProjectAbi.dll.config
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\ProjectAbi.dll
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\ProjectAbi.pdb
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\csc.exe
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\csc.exe.config
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\csc.rsp
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\csi.exe
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\csi.exe.config
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\csi.rsp
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\Microsoft.Managed.Core.targets
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\System.AppContext.dll
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\System.Collections.Immutable.dll
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\System.Console.dll
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\System.Globalization.Calendars.dll
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\System.IO.Compression.dll
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\System.IO.FileSystem.dll
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\System.Net.Http.dll
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\System.Net.Sockets.dll
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\System.Reflection.Metadata.dll
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\System.ValueTuple.dll
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\System.Xml.XmlDocument.dll
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\System.Xml.XPath.dll
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\vbc.exe
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\vbc.exe.config
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\vbc.rsp
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\VBCSCompiler.exe
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\roslyn\VBCSCompiler.exe.config
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\EntityFramework.dll
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\EntityFramework.SqlServer.dll
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\Microsoft.AspNet.Identity.Core.dll
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\Microsoft.Owin.Cors.dll
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\Microsoft.Owin.dll
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\Microsoft.Owin.Security.Cookies.dll
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\Microsoft.Owin.Security.dll
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\Microsoft.Owin.Security.OAuth.dll
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\Newtonsoft.Json.dll
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\Owin.dll
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\System.Net.Http.Formatting.dll
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\System.Web.Cors.dll
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\System.Web.Http.dll
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\System.Web.Http.Owin.dll
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\EntityFramework.xml
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\EntityFramework.SqlServer.xml
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\Microsoft.AspNet.Identity.Core.xml
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\Microsoft.Owin.xml
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\Microsoft.Owin.Cors.xml
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\Microsoft.Owin.Security.xml
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\Microsoft.Owin.Security.Cookies.xml
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\Microsoft.Owin.Security.OAuth.xml
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\Newtonsoft.Json.xml
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\System.Net.Http.Formatting.xml
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\System.Web.Http.xml
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\System.Web.Http.Owin.xml
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\obj\Debug\ProjectAbi.csprojAssemblyReference.cache
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\obj\Debug\ProjectAbi.Migrations.step1.resources
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\obj\Debug\ProjectAbi.Migrations.step2.resources
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\obj\Debug\ProjectAbi.Migrations.step21.resources
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\obj\Debug\ProjectAbi.Migrations.step4.resources
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\obj\Debug\ProjectAbi.Migrations.step22.resources
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\obj\Debug\ProjectAbi.csproj.GenerateResource.cache
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\obj\Debug\ProjectAbi.csproj.CoreCompileInputs.cache
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\obj\Debug\ProjectAbi.csproj.CopyComplete
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\obj\Debug\ProjectAbi.dll
+E:\iti\Projects\ProjectApi boles Gamel Rashad\ProjectAbi\ProjectAbi\obj\Debug\ProjectAbi.pdb

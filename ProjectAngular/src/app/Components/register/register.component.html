@@ -1,0 +1,28 @@
+
+<div>
+
+  <app-loading-spinners *ngIf="isLoading"></app-loading-spinners>
+</div>
+
+
+<form (ngSubmit)="addUser()" *ngIf="!isLoading">
+    <div class="form-group">
+      <label for="Pname">UserName:</label>
+      <input type="text" #PName="ngModel"  [class.is-valid]="PName.valid" [class.is-invalid]="PName.invalid &&PName.touched" required minlength="4" class="form-control" name="UserName" [(ngModel)]="user.UserName" id="Pname">
+    </div>
+    <div class="form-group">
+      <label for="PDescription">Password:</label>
+      <input type="text" #PDescription="ngModel" [class.is-valid]="PDescription.valid" [class.is-invalid]="PDescription.invalid &&PDescription.touched" class="form-control" name="Password" [(ngModel)]="user.Password" id="PDescription" required minlength="4">
+    </div>
+    <div class="form-group">
+      <label for="Pprice">ConfirmPassword:</label>
+      <input type="text" class="form-control" id="Pprice" [(ngModel)]="user.ConfirmPassword" name="Price" required min="2" #PPrice="ngModel" [class.is-valid]="PPrice.valid" [class.is-invalid]="PPrice.invalid &&PPrice.touched">
+    </div>
+    <div class="form-group">
+        <label for="Pname">Email:</label>
+        <input type="text" #PName="ngModel"  [class.is-valid]="PName.valid" [class.is-invalid]="PName.invalid &&PName.touched" required minlength="4" class="form-control" name="Email" [(ngModel)]="user.Email" id="Pname">
+      </div>
+  
+    <button type="submit" class="btn btn-primary">Create</button>
+  </form>
+

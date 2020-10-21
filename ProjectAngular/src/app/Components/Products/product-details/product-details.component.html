@@ -1,0 +1,14 @@
+<div class="card text-dark  mb-3 " style="max-width: 18rem; margin-left: 100px; ">
+    <img src="http://localhost:56045/Image/{{prdApI.Image}}" style="width: 100%; height: 200px;"> 
+      <div class="card-header" style="text-align: center;">Name:{{prdApI.Name}}</div>
+      <div class="card-body">
+        <h5 class="card-title">Price:{{prdApI.Price}}</h5>
+        <p class="card-text">
+            <span ><b>Description:</b>{{prdApI.Description}}</span><br>
+              <span style="font-weight: bold;">Quantity:{{prdApI.Quantity}}</span>               
+        </p>
+       
+     <button (click)="goBack()"  class="btn btn-info btn-block">Go to Back </button>
+       
+      </div>
+    </div>
